@@ -1,0 +1,5 @@
+target/
+jte-classes/
+.idea/
+.git/
+*.md
